@@ -1,0 +1,7 @@
+{
+  "/api/order/route": "app/api/order/route.js",
+  "/kitchen/page": "app/kitchen/page.js",
+  "/menu/page": "app/menu/page.js",
+  "/page": "app/page.js",
+  "/qr/page": "app/qr/page.js"
+}
